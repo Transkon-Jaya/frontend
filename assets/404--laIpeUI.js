@@ -1,2 +1,0 @@
-import{_ as o,c as e,a,o as n}from"./index-BBV3XHs4.js";const t={class:"error-container"};const s=o({methods:{goHome(){this.$router.push("/login")}}},[["render",function(o,s,r,d,i,l){return n(),e("div",t,[s[1]||(s[1]=a("h1",null,"404 - Not Found",-1)),s[2]||(s[2]=a("p",null,"Halaman tidak ditemukan",-1)),a("button",{onClick:s[0]||(s[0]=(...o)=>l.goHome&&l.goHome(...o))},"Kembali")])}],["__scopeId","data-v-4e7e65d5"]]);export{s as default};
-//# sourceMappingURL=404--laIpeUI.js.map
