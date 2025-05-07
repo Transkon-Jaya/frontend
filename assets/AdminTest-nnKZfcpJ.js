@@ -1,2 +1,0 @@
-import{o as t}from"./index-bhEXSi7T.js";const e={__name:"AdminTest",setup:e=>(t((async()=>{const t=localStorage.getItem("token");localStorage.getItem("user_level");try{const e=await fetch("https://www.transkon-rent.com/api/users",{method:"GET",headers:{Authorization:`Bearer ${t}`,"Content-Type":"application/json"}});await e.json()}catch(e){}})),()=>{})};export{e as default};
-//# sourceMappingURL=AdminTest-nnKZfcpJ.js.map
