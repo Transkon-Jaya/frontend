@@ -1,0 +1,2 @@
+import{_ as a,c as n,a as e,b as o}from"./index-bhEXSi7T.js";const s={class:"error-container"};const i=a({methods:{goHome(){this.$router.push("/login")}}},[["render",function(a,i,t,u,r,d){return o(),n("div",s,[i[1]||(i[1]=e("h1",null,"403 - Forbidden",-1)),i[2]||(i[2]=e("p",null," Anda tidak mempunyai akses untuk halaman ini. Hubungi admin jika membutuhkan akses ",-1)),e("button",{onClick:i[0]||(i[0]=(...a)=>d.goHome&&d.goHome(...a))},"Kembali")])}],["__scopeId","data-v-1a368ed3"]]);export{i as default};
+//# sourceMappingURL=403-WQgut4nC.js.map
