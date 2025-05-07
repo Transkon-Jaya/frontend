@@ -1,2 +1,1 @@
 import{_ as t,c as s,a as o,g as r}from"./index-DBX_f3tK.js";const i={methods:{goHome(){this.$router.push("/login")}}},d={class:"error-container"};function u(m,e,l,p,k,n){return r(),s("div",d,[e[1]||(e[1]=o("h1",null,"403 - Forbidden",-1)),e[2]||(e[2]=o("p",null," Anda tidak mempunyai akses untuk halaman ini. Hubungi admin jika membutuhkan akses ",-1)),o("button",{onClick:e[0]||(e[0]=(...a)=>n.goHome&&n.goHome(...a))},"Kembali")])}const c=t(i,[["render",u],["__scopeId","data-v-1a368ed3"]]);export{c as default};
-//# sourceMappingURL=403-BsufsNET.js.map
