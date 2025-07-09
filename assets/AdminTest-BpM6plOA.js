@@ -1,5 +1,1 @@
-<<<<<<<< HEAD:assets/AdminTest-BpM6plOA.js
 import{u as s,o as n}from"./index-B2ZTZ8RC.js";const p={__name:"AdminTest",setup(r){const e=s();return n(async()=>{const o=localStorage.getItem("token");localStorage.getItem("user_level"),console.log(o);try{const a=await(await fetch("https://www.transkon-rent.com/api/users",{method:"GET",headers:{Authorization:`Bearer ${e.token}`,"Content-Type":"application/json"}})).json();console.log(a)}catch(t){console.error("Error fetching data:",t)}}),()=>{}}};export{p as default};
-========
-import{u as s,o as n}from"./index--wBuMZOF.js";const p={__name:"AdminTest",setup(r){const e=s();return n(async()=>{const o=localStorage.getItem("token");localStorage.getItem("user_level"),console.log(o);try{const a=await(await fetch("https://www.transkon-rent.com/api/users",{method:"GET",headers:{Authorization:`Bearer ${e.token}`,"Content-Type":"application/json"}})).json();console.log(a)}catch(t){console.error("Error fetching data:",t)}}),()=>{}}};export{p as default};
->>>>>>>> dd9801410e2849a16ff8ec35e879c24411c7184b:assets/AdminTest-DLL4uMHA.js

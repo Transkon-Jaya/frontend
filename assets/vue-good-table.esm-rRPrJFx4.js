@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:assets/vue-good-table.esm-rRPrJFx4.js
 import{i as Ve,c as g,g as h,q as P,a as T,O as U,d as Ye,N as Lt,f as Se,z as K,h as _r,t as A,s as De,F as te,j as ge,I as Or,H as pr,a6 as Gt,b as ia,k as oa}from"./index-B2ZTZ8RC.js";/*!
-========
-import{i as Ve,c as g,g as h,q as P,a as T,O as U,d as Ye,N as Lt,f as Se,z as K,h as _r,t as A,s as De,F as te,j as ge,I as Or,H as pr,a6 as Gt,b as ia,k as oa}from"./index--wBuMZOF.js";/*!
->>>>>>>> dd9801410e2849a16ff8ec35e879c24411c7184b:assets/vue-good-table.esm-DKuDNlmV.js
   * vue-good-table-next v0.2.2
   * (c) 2021-present Boris Flesch <boris@singlequote.net>
   * (c) 2017-2021 xaksis <shay@crayonbits.com>
