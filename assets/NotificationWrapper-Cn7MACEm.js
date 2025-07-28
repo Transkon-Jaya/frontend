@@ -1,0 +1,1 @@
+import{o as r,G as i}from"./index-BdfAxFpj.js";const c={__name:"NotificationWrapper",setup(n){const t=i();function e(){return!!(window.matchMedia("(orientation: portrait)").matches||window.innerWidth<=768)}return r(()=>{e()?t.replace({name:"notification-mobile"}):t.replace({name:"notification-desktop"})}),(o,a)=>null}};export{c as default};
