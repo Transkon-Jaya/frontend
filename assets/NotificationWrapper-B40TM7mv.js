@@ -1,0 +1,1 @@
+import{o as r,I as i}from"./index-g6npIRNv.js";const c={__name:"NotificationWrapper",setup(n){const t=i();function e(){return!!(window.matchMedia("(orientation: portrait)").matches||window.innerWidth<=768)}return r(()=>{e()?t.replace({name:"notification-mobile"}):t.replace({name:"notification-desktop"})}),(o,a)=>null}};export{c as default};
